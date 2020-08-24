@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello, I'm Ryan!
 
-<!--
-**RyanBeiden/ryanbeiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 Currently:
 
-Here are some ideas to get you started:
+- Working on a CRUD App built with React & Firebase 👉🏼 [Baggy Greens](https://github.com/RyanBeiden/sports-roster)
+- Learning everything I can about React at [NSS](http://nashvillesoftwareschool.com/) and from [React for Beginners](https://reactforbeginners.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:eyes: Find me:
+
+📸 [Instagram](https://www.instagram.com/ryanbeiden/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/ryan-beiden/)
+
+✉️ [Email](mailto:rdbeiden@gmail.com)
