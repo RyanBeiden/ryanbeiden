@@ -7,8 +7,8 @@
 
 :eyes: Find me:
 
-📸 [Instagram](https://www.instagram.com/ryanbeiden/)
+[Instagram](https://www.instagram.com/ryanbeiden/)
 
-💼 [LinkedIn](https://www.linkedin.com/in/ryan-beiden/)
+[LinkedIn](https://www.linkedin.com/in/ryan-beiden/)
 
-✉️ [Email](mailto:rdbeiden@gmail.com)
+[Email](mailto:rdbeiden@gmail.com)
