@@ -1,7 +1,7 @@
 ## Hello, I'm Ryan!
 
 #### 🔭 Currently:
-- Working on a React App with Firebase that uses React Router DOM & Material UI 👉🏼 [React Hoarder](https://github.com/RyanBeiden/sports-roster)
+- Working on a Color Palette Web App with Github API Integration 👉🏼 [Hold My Color](https://github.com/RyanBeiden/hold-my-color)
 - Learning everything I can about React at [NSS](http://nashvillesoftwareschool.com/) and from [React for Beginners](https://reactforbeginners.com/)
 
 #### 🚀 Tech I Use:
