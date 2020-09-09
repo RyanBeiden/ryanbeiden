@@ -1,7 +1,7 @@
 ## Hello, I'm Ryan!
 
 #### 🔭 Currently:
-- Working on a Color Palette Web App with Github API Integration 👉🏼 [Hold My Color](https://github.com/RyanBeiden/hold-my-color)
+- Working on a color palette web app with the Github API 👉🏼 [Hold My Color](https://github.com/RyanBeiden/hold-my-color)
 - Learning everything I can about React at [NSS](http://nashvillesoftwareschool.com/) and from [React for Beginners](https://reactforbeginners.com/)
 
 #### 🚀 Tech I Use:
