@@ -1,4 +1,4 @@
-## Hello, I'm [Ryan](https://ryanbeiden.com)!
+## Hello, I'm Ryan!
 
 #### 🔭 Currently:
 Working as a Junior Software Developer at [Bernard Health](https://www.bernardhealth.com/). Attempting my first year participating in the [Advent of Code ⭐️](https://adventofcode.com/2021).
